@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 Estoy estudiando en 42 Madrid<br>- 📚 Estoy aprendiendo C<br>- ⚡ En mi tiempo libre me gusta entrenar y jugar al pádel</p>
+<p align="left">- 🔭 Estudio programacion en 42 Madrid<br>- 📚 Estoy aprendiendo C y C++<br></p>
 
 ###
 
