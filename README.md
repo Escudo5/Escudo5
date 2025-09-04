@@ -50,3 +50,56 @@
 </div>
 
 ###
+<h2 align="center">📚 Recorrido en 42 Madrid</h2>
+
+<p align="center">Haz clic en cada círculo para ver los proyectos</p>
+
+---
+
+<details>
+  <summary>🌱 Círculo 0</summary>
+  
+  - ✅ [Libft](https://github.com/Escudo5/libft) → Tu primera librería en C
+</details>
+
+---
+
+<details>
+  <summary>🛠 Círculo 1</summary>
+  
+  - ✅ [ft_printf](https://github.com/Escudo5/ft_printf) → Implementación de printf  
+  - ✅ [get_next_line](https://github.com/Escudo5/get_next_line) → Lectura de ficheros línea a línea  
+  - ✅ [Born2beroot](https://github.com/Escudo5/born2beroot) → Administración de un servidor Linux  
+</details>
+
+---
+
+<details>
+  <summary>🧠 Círculo 2</summary>
+  
+  - ✅ [Fract-ol](https://github.com/Escudo5/minitalk) → Diseño de fractales con librería gráfica  
+  - ✅ [Pipex](https://github.com/Escudo5/so_long) → Réplica del comportamiento de un pipe  
+  - ✅ [Push_swap](https://github.com/Escudo5/push_swap) → Algoritmos de ordenación con stacks  
+</details>
+
+---
+
+<details>
+  <summary>🚀 Círculo 3</summary>
+  
+  - ✅ [Philosophers](https://github.com/Escudo5/philosophers) → Problema clásico de concurrencia y gestion de hilos
+  - ✅ [Minishell](https://github.com/Escudo5/minishell) → Implementación de un shell estilo Bash  
+</details>
+
+---
+
+<details>
+  <summary>🎯 Círculo 4</summary>
+  
+  - ✅ NetPractice → Ejercicios de redes (sin repositorio en GitHub)  
+  - 🔲 [CPP Modules](#) → Introducción a C++  
+  - 🔲 [cub3D](#) → Motor gráfico tipo Wolfenstein 3D  
+</details>
+
+
+
