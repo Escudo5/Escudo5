@@ -87,8 +87,8 @@
 <details>
   <summary>🚀 Círculo 3</summary>
   
-  - ✅ [Philosophers](https://github.com/Escudo5/philosophers) → Problema clásico de concurrencia y gestion de hilos
-  - ✅ [Minishell](https://github.com/Escudo5/minishell) → Implementación de un shell estilo Bash  
+  - ✅ [Philosophers](https://github.com/Escudo5/philosophers) → Problema clásico de concurrencia  
+  - ✅ [Minishell](https://github.com/Escudo5/minishell) → Implementación de un shell básico estilo Bash  
 </details>
 
 ---
@@ -97,9 +97,14 @@
   <summary>🎯 Círculo 4</summary>
   
   - ✅ NetPractice → Ejercicios de redes (sin repositorio en GitHub)  
-  - 🔲 [CPP Modules](#) → Introducción a C++  
+  - ✅ [CPP Module 00](https://github.com/Escudo5/CPP-Module-00) → Fundamentos de C++  
+  - ✅ [CPP Module 01](https://github.com/Escudo5/CPP-Module-01) → Memoria, referencias y punteros  
+  - ✅ [CPP Module 02](https://github.com/Escudo5/CPP-Module-02) → Sobrecarga de operadores y clases  
+  - ✅ [CPP Module 03](https://github.com/Escudo5/CPP-Module-03) → Herencia simple y polimorfismo  
+  - ✅ [CPP Module 04](https://github.com/Escudo5/CPP-Module-04) → Herencia abstracta e interfaces  
   - 🔲 [cub3D](#) → Motor gráfico tipo Wolfenstein 3D  
 </details>
+
 
 
 
