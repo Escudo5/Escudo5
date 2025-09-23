@@ -46,7 +46,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Escudo5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Lenguajes%20m%C3%A1s%20usados" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Escudo5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
