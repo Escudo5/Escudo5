@@ -76,7 +76,7 @@
 <details>
   <summary>🧠 Círculo 2</summary>
   
-  - ✅ [Fract-ol](https://github.com/Escudo5/minitalk) → Diseño de fractales con librería gráfica  
+  - ✅ [Fract-ol](https://github.com/Escudo5/fract-ol) → Diseño de fractales con librería gráfica  
   - ✅ [Pipex](https://github.com/Escudo5/so_long) → Réplica del comportamiento de un pipe  
   - ✅ [Push_swap](https://github.com/Escudo5/push_swap) → Algoritmos de ordenación con stacks  
 </details>
