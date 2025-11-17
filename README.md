@@ -101,9 +101,20 @@
   - ✅ [CPP Module 02](https://github.com/Escudo5/CPP-Module-02) → Sobrecarga de operadores y clases  
   - ✅ [CPP Module 03](https://github.com/Escudo5/CPP-Module-03) → Herencia simple y polimorfismo  
   - ✅ [CPP Module 04](https://github.com/Escudo5/CPP-Module-04) → Herencia abstracta e interfaces  
-  - 🔲 [cub3D](#) → Motor gráfico tipo Wolfenstein 3D  
+  - 🔲 [cub3D](https://github.com/Escudo5/cub3d_definitivo)) → Motor gráfico tipo Wolfenstein 3D  
 </details>
 
+---
+
+<details>
+  <summary>🌌 Círculo 5</summary>
+  
+  - ✅ [CPP Module 05](https://github.com/Escudo5/CPP-Module-05) → Excepciones y manejo avanzado de clases  
+  - ✅ [CPP Module 06](https://github.com/Escudo5/CPP-Module-06) → Conversión de tipos y casting  
+  - ✅ [CPP Module 07](https://github.com/Escudo5/CPP-Module-07) → Plantillas y containers  
+  - ✅ [CPP Module 08](https://github.com/Escudo5/CPP-Module-08) → Algoritmos STL y funciones avanzadas  
+  - ✅ [CPP Module 09](https://github.com/Escudo5/CPP-Module-09) → Ejercicios prácticos en C++  
+</details>
 
 
 
