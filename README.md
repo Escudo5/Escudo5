@@ -101,7 +101,7 @@
   - ✅ [CPP Module 02](https://github.com/Escudo5/CPP-Module-02) → Sobrecarga de operadores y clases  
   - ✅ [CPP Module 03](https://github.com/Escudo5/CPP-Module-03) → Herencia simple y polimorfismo  
   - ✅ [CPP Module 04](https://github.com/Escudo5/CPP-Module-04) → Herencia abstracta e interfaces  
-  - ✅ [cub3D](https://github.com/Escudo5/cub3d_definitivo) → Motor gráfico tipo Wolfenstein 3D  
+  - ✅ [cub3D](https://github.com/Escudo5/cub3d) → Motor gráfico tipo Wolfenstein 3D  
 </details>
 
 ---
