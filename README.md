@@ -115,6 +115,7 @@
   - ✅ [CPP Module 08](https://github.com/Escudo5/CPP-Module-08) → Algoritmos STL y funciones avanzadas  
   - ✅ [CPP Module 09](https://github.com/Escudo5/CPP-Module-09) → Ejercicios prácticos en C++
   - ✅ [Inception](https://github.com/Escudo5/inception) → Orquestación de contenedores Docker
+  - ✅ [ft_irc](https://github.com/Escudo5/irc) → Creación de un chat siguiendo el standard IRC
 </details>
 
 
